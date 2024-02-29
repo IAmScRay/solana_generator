@@ -1,0 +1,3 @@
+bip_utils
+hdwallet
+openpyxl
